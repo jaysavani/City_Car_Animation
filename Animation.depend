@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525536457 source:/root/Animation/main.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+
